@@ -207,6 +207,7 @@ dare_norm = ["Do a free-style rap for the next minute.",
 "Hand over your phone to another player who can send a single text saying anything they want to anyone they want.",
 "Let the other players go through your phone for one minute.",
 "Smell another player's armpit.",
+"If you had to pick, who here is good looking?"
 "Smell another player's bare foot.",
 "Eat a bite of a banana peel.",
 "Do an impression of another player until someone can figure out who it is.",
@@ -369,7 +370,6 @@ dare_norm = ["Do a free-style rap for the next minute.",
 "Remove your pants/skirt for the rest of the game.",
 "Give a 20 minute lecture of safe sex.",
 "Try to touch your nose with your tongue.",
-"Do a belly dance.",
 "Join the Discord server https://discord.gg/mwaPKHypGF and ask for 5$."
 "Mimic the joker from a Batman movie.",
 "Call your closest friend and invite him/her for a threesome."]
